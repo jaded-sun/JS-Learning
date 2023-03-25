@@ -56,7 +56,7 @@ const noteList = [{
 function App(): JSX.Element {
   return (
     <ScrollView style={{
-      backgroundColor: 'blue',
+      backgroundColor: 'orange',
       height: 2340
     }}>
     </ScrollView>
